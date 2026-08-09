@@ -18,6 +18,6 @@ A light, menu-driven Python application designed to handle student record manage
 ## 📁 File Structure
 
 ```text
-├── main.py          # Handles user interactions and application logic
-├── database.py      # Manages storage operations (if split)
-└── students.json    # Created automatically to store student records
+├── studentmanagementsystem.py  # Main program file containing logic and database handling
+├── .gitignore                  # Ignores students.json and temporary Python files
+└── students.json               # Auto-generated file to store student records
